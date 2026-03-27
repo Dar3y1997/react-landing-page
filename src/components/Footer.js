@@ -56,31 +56,28 @@ function Footer() {
           </div>
 
           <div className="flex flex-col gap-3">
-            <a href="#" className="hover:text-white">About Us</a>
-            <a href="#" className="hover:text-white">Jobs</a>
-            <a href="#" className="hover:text-white">Press</a>
-            <a href="#" className="hover:text-white">Blog</a>
+            <a href="/" className="hover:text-white">About Us</a>
+            <a href="/" className="hover:text-white">Jobs</a>
+            <a href="/" className="hover:text-white">Press</a>
+            <a href="/" className="hover:text-white">Blog</a>
           </div>
 
           <div className="flex flex-col gap-3">
-            <a href="#" className="hover:text-white">Contact Us</a>
-            <a href="#" className="hover:text-white">Terms</a>
-            <a href="#" className="hover:text-white">Privacy</a>
+            <a href="/" className="hover:text-white">Contact Us</a>
+            <a href="/" className="hover:text-white">Terms</a>
+            <a href="/" className="hover:text-white">Privacy</a>
           </div>
 
           <div className="flex gap-3 mt-2">
-            <a
-              href="#"
-              className="border border-white rounded-full w-8 h-8 flex items-center justify-center hover:bg-white hover:text-[#1b2330]"
-              ><i className="fa-brands fa-facebook-f"></i></a>
-            <a
-              href="#"
-              className="border border-white rounded-full w-8 h-8 flex items-center justify-center hover:bg-white hover:text-[#1b2330]"
-              ><i className="fa-brands fa-x-twitter"></i></a>
-            <a
-              href="#"
-              className="border border-white rounded-full w-8 h-8 flex items-center justify-center hover:bg-white hover:text-[#1b2330]"
-              ><i className="fa-brands fa-linkedin"></i></a>
+            <a href="/"
+            className="border border-white rounded-full w-8 h-8 flex items-center justify-center hover:bg-white hover:text-[#1b2330]"
+            ><i className="fa-brands fa-facebook-f"></i></a>
+            <a href="/"
+            className="border border-white rounded-full w-8 h-8 flex items-center justify-center hover:bg-white hover:text-[#1b2330]"
+            ><i className="fa-brands fa-x-twitter"></i></a>
+            <a href="/"
+            className="border border-white rounded-full w-8 h-8 flex items-center justify-center hover:bg-white hover:text-[#1b2330]"
+            ><i className="fa-brands fa-linkedin"></i></a>
           </div>
         </div>
       </div>

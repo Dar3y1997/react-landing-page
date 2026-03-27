@@ -41,17 +41,17 @@ function Navbar() {
         <li
           className="hover:bg-gradient-to-r from-[#339ecc] to-[#65e2d9] text-white rounded-lg px-2 py-1"
         >
-          <a href="#">Features</a>
+          <a href="/">Features</a>
         </li>
         <li
           className="hover:bg-gradient-to-r from-[#339ecc] to-[#65e2d9] text-white rounded-lg px-2 py-1"
         >
-          <a href="#">Team</a>
+          <a href="/">Team</a>
         </li>
         <li
           className="hover:bg-gradient-to-r from-[#339ecc] to-[#65e2d9] text-white rounded-lg px-2 py-1"
         >
-          <a href="#">Sign In</a>
+          <a href="/">Sign In</a>
         </li>
       </ul>
     </nav>
