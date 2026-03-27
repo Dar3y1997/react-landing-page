@@ -3,8 +3,8 @@ import React from 'react'
 function Navbar() {
   return (
     <>
-    <nav class="flex justify-between items-center px-7 py-6 max-w-6xl mx-auto">
-      <div class="flex items-center">
+    <nav className="flex justify-between items-center px-7 py-6 max-w-6xl mx-auto">
+      <div className="flex items-center">
         <svg
           width="45px"
           height="45px"
@@ -34,22 +34,22 @@ function Navbar() {
             stroke-linejoin="round"
           />
         </svg>
-        <span class="text-4xl font-bold">Fylo</span>
+        <span className="text-4xl font-bold">Fylo</span>
       </div>
 
-      <ul class="flex gap-6 text-sm text-gray-300">
+      <ul className="flex gap-6 text-sm text-gray-300">
         <li
-          class="hover:bg-gradient-to-r from-[#339ecc] to-[#65e2d9] text-white rounded-lg px-2 py-1"
+          className="hover:bg-gradient-to-r from-[#339ecc] to-[#65e2d9] text-white rounded-lg px-2 py-1"
         >
           <a href="#">Features</a>
         </li>
         <li
-          class="hover:bg-gradient-to-r from-[#339ecc] to-[#65e2d9] text-white rounded-lg px-2 py-1"
+          className="hover:bg-gradient-to-r from-[#339ecc] to-[#65e2d9] text-white rounded-lg px-2 py-1"
         >
           <a href="#">Team</a>
         </li>
         <li
-          class="hover:bg-gradient-to-r from-[#339ecc] to-[#65e2d9] text-white rounded-lg px-2 py-1"
+          className="hover:bg-gradient-to-r from-[#339ecc] to-[#65e2d9] text-white rounded-lg px-2 py-1"
         >
           <a href="#">Sign In</a>
         </li>
